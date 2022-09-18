@@ -1,5 +1,5 @@
 body {
-    background-color: #6e6e6e;
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -9,7 +9,18 @@ h1 {
 
 /* En Kommentar */ 
 
-h2 {
+
+p {
+    font-style: initial;
+}
+
+.h1 {
+    background-color:darkcyan;
+    font-size: 54px;
+}
+
+#blue {
+    color: blue;
     background-color: antiquewhite;
     text-align: center;
     width: auto;
@@ -17,8 +28,24 @@ h2 {
     padding-left: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
-p {
-    font-style: initial;
+.bold {
+    font-weight: bold;
+}
+
+.link {
+    border-bottom: 2px;
+    border-color: blue;
+    background-color: white;
+}
+
+#border {
+    border: 10px;
+    border-color: aliceblue;    
+}
+
+#italic {
+    font-style: italic;
 }
