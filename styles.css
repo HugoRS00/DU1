@@ -1,0 +1,24 @@
+body {
+    background-color: #6e6e6e;
+}
+
+h1 {
+    color: aqua;
+    font-size: 54px;
+}
+
+/* En Kommentar */ 
+
+h2 {
+    background-color: antiquewhite;
+    text-align: center;
+    width: auto;
+    border: 10px solid black;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-style: initial;
+}
